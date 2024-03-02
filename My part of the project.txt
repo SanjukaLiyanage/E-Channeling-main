@@ -1,0 +1,8 @@
+my part of the project is :
+	
+	1.patient login.
+	(u can login using details from usertable)
+
+	2.patient create , view , update, and delete feedbacks.
+
+	3.admin login and view user feedbacks.
